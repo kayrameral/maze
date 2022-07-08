@@ -1,1 +1,1 @@
-Amaç kapsüle ulaşmak. Aşağıya düşerse oyun yeniden başlar. Oyuncuya 3 tane üstten bakma hakkı tanınır. Restart butonu ile oyun yeniden başlatılabilir. Oyuncu kapsüle ulaştığında oyun biter ve game over ekranında süre de game over da gözükür.
+Amaç kapsüle ulaşmak. Aşağıya düşerse oyun yeniden başlar. Oyuncuya 3 tane üstten bakma hakkı tanınır. Restart butonu ile oyun yeniden başlatılabilir. Oyuncu kapsüle ulaştığında oyun biter ve game over ekranında süre de game over da gözükür. E Ve Q tuşları ile de kamera cismin etrafında dönüyor.
