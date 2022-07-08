@@ -6,7 +6,7 @@ public class camchange : MonoBehaviour
 {
    // public GameObject[] hearts;
    // private int life;
-    float firstTime = 0f;
+    
     public float timeStart;
     bool timerActive = false;
     public GameObject cam1;
@@ -17,9 +17,8 @@ public class camchange : MonoBehaviour
     public float haksayisi = 5f;
     float times = 3f;
     float y = 500;
-    float f = 0f;
     bool controller = true;
-    float lastTime = 0f;
+    
   
     void Update()
     {
